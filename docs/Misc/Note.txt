@@ -1,0 +1,3 @@
+Another Free Webpage Template to try in the architecture instead of a app tier in S3 Bucket. 
+
+You Can Also Deploy your own interactive service while creating the Three Tier Model
